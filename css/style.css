@@ -29,9 +29,38 @@
     color: blue;
    }
 
-   
-
-   
 
 
+ #tab{
+    background-color: aqua;
+    color: aliceblue;
     
+    
+    
+ }
+
+ #tab2{
+    background-color:#B1E5F2;
+    
+    
+ }
+
+
+
+
+
+
+
+   .parag{
+    color: rgb(121, 111, 111);
+   }
+
+   #hero {
+    color: antiquewhite;
+    font-size: 25px;
+    background-image: url(../img/monitor.jpg);
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+   }
+
+
