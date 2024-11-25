@@ -1,3 +1,30 @@
-.pattern{
+/*.pattern{
  background-image: url(../img/pattern.png) ;
+ background-color: #4EA0FF; 
+ padding-top: 200px;
+ background-size: 300px 300px;
+
+}*/
+#logo{
+    
+   height: 500px;
+   width: 350px; 
+   position:absolute;
+   padding-top: 465px;
+   padding-left: 20px;
+
+
+
+
 }
+.pattern{
+    background-image: url(../img/pattern.png) ;
+    background-color: #4EA0FF; 
+    padding-top: 200px;
+    background-size: 800px 800px;
+    
+   
+   }
+
+
+    
